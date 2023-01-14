@@ -20,7 +20,7 @@
 
 - [Certification in Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [AWS Solutions Architect Associate](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
-- [Mapping MITRE ATT&CK to CVE for Impact](https://www.credly.com/earner/earned/badge/9120f681-6e63-4213-a97e-dae35d766126)
+- [Mapping MITRE ATT&CK to CVE for Impact](https://www.credly.com/badges/9120f681-6e63-4213-a97e-dae35d766126?source=linked_in_profile)
 
 
 <h2> 🤳 Connect with me:</h2>
