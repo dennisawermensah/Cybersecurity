@@ -1,6 +1,17 @@
 <h1>Hi, I'm Dennis! </h1>
 
 <h2>💻🔐 Cyber Security Projects</h2>
+<h2>AWS Projects</h2>
+
+  - [Microsoft Azure MFA, Conditional Access, Azure Active Directory Identity Protection](https://github.com/dennisawermensah/AD_PS)
+  - [Role-Based Access Control (RBAC)](https://github.com/dennisawermensah/AD_PS)
+  
+<h2>Microsoft Projects</h2>
+
+  - [Microsoft Azure MFA, Conditional Access, Azure Active Directory Identity Protection](https://github.com/dennisawermensah/AD_PS)
+  - [Role-Based Access Control (RBAC)](https://github.com/dennisawermensah/AD_PS)
+  
+<h2>GCP Projects</h2>
 
   - [Microsoft Azure MFA, Conditional Access, Azure Active Directory Identity Protection](https://github.com/dennisawermensah/AD_PS)
   - [Role-Based Access Control (RBAC)](https://github.com/dennisawermensah/AD_PS)
