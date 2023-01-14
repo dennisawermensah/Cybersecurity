@@ -17,11 +17,12 @@
   - [Role-Based Access Control (RBAC)](https://github.com/dennisawermensah/AD_PS)
 
 <h2>📃 Certifications</h2>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9120f681-6e63-4213-a97e-dae35d766126" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - [Certification in Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [AWS Solutions Architect Associate](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 - [Mapping MITRE ATT&CK to CVE for Impact](https://www.credly.com/badges/9120f681-6e63-4213-a97e-dae35d766126/public_url)
-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9120f681-6e63-4213-a97e-dae35d766126" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 <h2> 🤳 Connect with me:</h2>
