@@ -4,7 +4,7 @@
 <h2>Microsoft Projects</h2>
 
   - [Microsoft Azure MFA, Conditional Access, Azure Active Directory Identity Protection](https://github.com/dennisawermensah/Microsoft-MFA)
-  - [Microsoft Azure SIEM](https://github.com/dennisawermensah/Microsoft-Azure-Security-Information-Event-Management-SIEM-.git)
+  - [Microsoft Azure Security Information & Event Management (SIEM)](https://github.com/dennisawermensah/Microsoft-Azure-Security-Information-Event-Management-SIEM-.git)
   
 <h2>AWS Projects</h2>
 
